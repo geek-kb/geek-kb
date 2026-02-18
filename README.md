@@ -60,9 +60,13 @@ Reusable infrastructure patterns and scripts for cloud-native deployments.
 
 ### Contact
 
-Websites: 
-- https://geek-kb.com
+Websites:
 - https://k8s-security.guru
-  
+- https://geek-kb.com
+
+Community Profiles:
+- https://serverfault.com/users/109833/itai-ganot
+- https://stackoverflow.com/users/1702942/itai-ganot
+
 LinkedIn: https://www.linkedin.com/in/itai-ganot/
 
