@@ -53,7 +53,7 @@ Reusable infrastructure components and deployment workflows for multi-environmen
 
 https://k8s-security.guru
 https://geek-kb.com
-יא
+
 
 Community contributions:  
 https://serverfault.com/users/109833/itai-ganot  
