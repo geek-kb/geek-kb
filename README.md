@@ -50,13 +50,17 @@ Reusable infrastructure components and deployment workflows for multi-environmen
 
 
 ### Writing & Knowledge Sharing
-_https://k8s-security.guru
-_https://geek-kb.com
+
+https://k8s-security.guru
+
+https://geek-kb.com
 
 
-Community contributions:  
-_https://serverfault.com/users/109833/itai-ganot  
-_https://stackoverflow.com/users/1702942/itai-ganot  
+Community contributions:
+
+https://serverfault.com/users/109833/itai-ganot  
+
+https://stackoverflow.com/users/1702942/itai-ganot  
 
 
 ### Connect
