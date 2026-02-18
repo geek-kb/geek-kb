@@ -53,7 +53,6 @@ Reusable infrastructure components and automation frameworks for multi-environme
 
 ### 📊 GitHub Stats
 
-```markdown
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-kb&layout=compact)
 
 
