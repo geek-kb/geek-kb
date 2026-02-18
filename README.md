@@ -53,7 +53,8 @@ Reusable infrastructure components and automation frameworks for multi-environme
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geek-kb&show_icons=true&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geek-kb&show_icons=true&hide_border=true)](https://github-readme-stats-gray-nine-45.vercel.app/api?username=geek-kb&show_icons=true
+)
 
 
 ### Contact
