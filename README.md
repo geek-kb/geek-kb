@@ -1,71 +1,65 @@
 ## Itai Ganot
-DevOps Engineer | Kubernetes | Cloud Infrastructure | Security
+Principal DevOps Engineer | Cloud-Native Architecture | Kubernetes Security
 
-I build secure, scalable, and production-grade cloud-native platforms.  
-My focus is infrastructure architecture, Kubernetes platform engineering, GitOps workflows, and security-first system design.
+I design and lead the implementation of secure, scalable cloud-native platforms.
 
-I work at the intersection of reliability, automation, and security — designing systems that are maintainable, observable, and resilient under real production conditions.
+My work focuses on platform architecture, Kubernetes security strategy, GitOps operating models, and infrastructure design across multi-environment and multi-account cloud systems.
+
+I operate at the intersection of architecture, automation, and security — building platforms that enable teams to move fast without compromising reliability or control.
 
 
-### Core Expertise
+### Architecture & Technical Leadership
 
-Cloud Platforms  
-AWS, Azure
+Platform Engineering  
+Designing internal platforms that standardize infrastructure patterns, enforce security baselines, and reduce cognitive load for development teams.
 
-Containers & Orchestration  
-Kubernetes, Helm, ArgoCD, Docker
+Cloud Architecture  
+Multi-account AWS design, environment isolation, IAM boundary modeling, secure networking, and production-grade deployment workflows.
+
+Kubernetes & GitOps  
+Cluster architecture, workload security boundaries, admission control strategies, and declarative delivery using ArgoCD and Helm.
 
 Infrastructure as Code  
-Terraform, Terragrunt, Crossplane
+Terraform, Terragrunt, Crossplane — building reusable, composable infrastructure modules aligned with organizational standards.
 
-CI/CD & Automation  
-Azure DevOps, GitHub Actions, Jenkins
-
-Security  
-Kubernetes hardening, RBAC design, Network Policies, mTLS, CIS Benchmarks, vulnerability management
-
-Languages  
-Python, Bash
+Security Engineering  
+Kubernetes hardening, RBAC design, network segmentation, mTLS, CIS alignment, and DevSecOps integration within CI/CD pipelines.
 
 
-### Featured Projects
+### Selected Work
 
 **k8s_security**  
-A structured knowledge base dedicated to Kubernetes attack vectors and mitigation strategies.  
-Bridges offensive security concepts with practical defensive implementation patterns.
+A structured knowledge base exploring Kubernetes attack vectors and mitigation strategies.  
+Connects threat modeling with practical defensive architecture patterns.
 
 **trivy-ui**  
-A web interface for visualizing and analyzing Trivy vulnerability scan reports.  
-Built with FastAPI and React to improve DevSecOps visibility and remediation workflows.
+A web interface for analyzing and operationalizing Trivy vulnerability scan results.  
+Focused on improving security visibility and remediation workflows in DevSecOps environments.
 
-**Infrastructure Modules & Automation Patterns**  
-Reusable infrastructure components and automation frameworks for multi-environment cloud deployments.
-
-
-### Current Focus
-
-- Kubernetes security architecture and hardening strategies  
-- GitOps-driven multi-environment platform design  
-- Secure AWS infrastructure patterns  
-- DevSecOps integration within CI/CD pipelines  
-- Practical cloud-native threat modeling  
+**Infrastructure & Automation Patterns**  
+Reusable infrastructure components and deployment workflows for multi-environment cloud systems.
 
 
-### 📊 GitHub Stats
+### Technical Focus Areas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geek-kb&show_icons=true&hide_border=true)](https://github-readme-stats-gray-nine-45.vercel.app/api?username=geek-kb&show_icons=true
-)
+- Kubernetes security architecture and threat modeling  
+- GitOps operating models at scale  
+- Secure cloud-native platform design  
+- Infrastructure standardization and governance  
+- Production reliability and observability patterns  
 
 
-### Contact
+### Writing & Knowledge Sharing
 
-Websites  
 https://k8s-security.guru  
 https://geek-kb.com  
 
-Community  
+Community contributions:  
 https://serverfault.com/users/109833/itai-ganot  
 https://stackoverflow.com/users/1702942/itai-ganot  
+
+
+### Connect
 
 LinkedIn  
 https://www.linkedin.com/in/itai-ganot/
