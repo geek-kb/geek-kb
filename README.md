@@ -53,7 +53,7 @@ Reusable infrastructure components and automation frameworks for multi-environme
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-kb)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geek-kb&show_icons=true&hide_border=true)
 
 
 ### Contact
