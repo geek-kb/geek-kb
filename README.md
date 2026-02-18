@@ -60,6 +60,9 @@ Reusable infrastructure patterns and scripts for cloud-native deployments.
 
 ### Contact
 
-Website: https://geek-kb.com  
+Websites: 
+- https://geek-kb.com
+- https://k8s-security.guru
+  
 LinkedIn: https://www.linkedin.com/in/itai-ganot/
 
